@@ -12,7 +12,7 @@ In this project, I used the programming language C to implement broadcasting mes
 
 # [Monopoly Project, Idaho State University, Fall 2019](https://github.com/ChengboXXing/Creative-Portfolio/tree/main/Monopoly%20Project)
 
-This is a digital version of the Monopoly board game in Java as a group project. It contains seven main modules, such as Players, Board and Game Engine, etc. This project has a graphical user interface, responding to both mouse and keyboard input, which attempts to mimic the play of the actual game. I simply showed all the operations of the game in a demo video. As the group leader, I completed the graphical user interface, Board, and MainGame, etc.<br>[Monopoly Demo YouTube Link](https://youtu.be/66xGHN_pJ4o)
+This is a digital version of the Monopoly board game in Java as a group project. It contains seven main modules, such as Players, Board and Game Engine, etc. This project has a graphical user interface, responding to both mouse and keyboard input, which attempts to mimic the play of the actual game. I simply showed all the operations of the game in a demo video. As the group leader, I completed the graphical user interface, Board, and MainGame, etc. [Monopoly Demo YouTube Link](https://youtu.be/66xGHN_pJ4o)
 
 # Assistive Tableware Set, Henan University of Economics and Law, Spring 2017
 
