@@ -2,6 +2,8 @@
 
 This is a digital version of the Acquire board game in Java as a group project. Acquire is a multi-player mergers and acquisitions themed board game. The object of the game is to earn the most money by developing and merging hotel chains. Not only this project contains the main modules such as Board, Driver, Chain, and Tile, etc., but also a graphical user interface made with JavaFX. I provided the code and a screenshot of the running game interface. As a team developer, I completed all the UI parts and code testing.
 
+<img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Acquire%20Project/Acquire%20Program%20Running/Start%20Game.png">
+
 # [Traveling Salesperson Problem (TSP) Project, Idaho State University, Spring 2020](https://github.com/ChengboXXing/Creative-Portfolio/tree/main/Traveling%20Salesperson%20Problem%20(TSP))
 
 The TSP problem consists of Given: a directed graph and a cost associated with each edge; Return: the lowest cost complete simple tour of the graph. This project implemented a graphical user interface and multiple algorithms, including the Branch and bound, the Greedy, and the Hungarian, aimed to find best solutions for the TSP in Python. The project report contains an explanation of each algorithm, an empirical analysis of the results, and screenshots of the operation. As a group member, I completed the Hungarian algorithm, the graphical user interface, and the final project report.
