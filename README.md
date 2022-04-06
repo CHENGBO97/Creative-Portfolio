@@ -2,7 +2,7 @@
 
 This is a digital version of the Acquire board game in Java as a group project. Acquire is a multi-player mergers and acquisitions themed board game. The object of the game is to earn the most money by developing and merging hotel chains. Not only this project contains the main modules such as Board, Driver, Chain, and Tile, etc., but also a graphical user interface made with JavaFX. I provided the code and a screenshot of the running game interface. As a team developer, I completed all the UI parts and code testing.
 
-<a href="https://youtu.be/Abdf4pdOv1o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/WEB.GIF"></a>
+<a href="https://youtu.be/Abdf4pdOv1o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/images/Danger!%20Danger!.GIF"></a>
 
 # [Unity, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Cinema%204D)
 
