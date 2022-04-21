@@ -9,3 +9,5 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 **⛷ Press SPACE to jump**
 
 **🚀 Press F to fly**
+
+<img src=https://github.com/Cb2116/Spring-2022-Worldmaking-with-Unity/blob/main/images/004.png> 
