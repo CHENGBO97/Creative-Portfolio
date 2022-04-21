@@ -1,4 +1,4 @@
-# Eye of the universe
+# Eye of The Universe
 
 This is an eye made up of multi-colored mountains sitting in the universe. When food falls from the sky, points are added to everything except cheese!! Players will advance when they reach enough points.
 
@@ -11,3 +11,21 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 **🚀 Press F to fly**
 
 <img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png> 
+
+# Nightmare Ladder
+
+This is a ladder to the sky. Go straight ahead and dodge the food falling from the sky!
+
+**🖱 Use the MOUSE to look around**
+
+**💻 Use WASD keys to move**
+
+**⛷ Press SPACE to jump**
+
+# Cornell Box
+
+This box contains three layers. From top to bottom, they are the lava layer containing dragons, the ocean layer containing fish, and the garden layer containing flowers. The player will land from a high altitude through the first angle of view, and the direction of the angle of view can be controlled by the keyboard and mouse.
+
+My idea for creating this box is that I want to use strong color contrasts and extremely unrealistic things in the environment to make the player feel a strange crossing when passing through different spaces.
+
+ <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/Cb2116/Fall-2021-Hypercinema-Sec.1/blob/main/Images/3_kda_opening_ceremony_0_0.jpeg"></a>
