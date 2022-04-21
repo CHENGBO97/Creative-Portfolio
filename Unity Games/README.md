@@ -28,4 +28,4 @@ This box contains three layers. From top to bottom, they are the lava layer cont
 
 My idea for creating this box is that I want to use strong color contrasts and extremely unrealistic things in the environment to make the player feel a strange crossing when passing through different spaces.
 
- <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/Cb2116/Fall-2021-Hypercinema-Sec.1/blob/main/Images/3_kda_opening_ceremony_0_0.jpeg"></a>
+ <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
