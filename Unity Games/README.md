@@ -22,6 +22,8 @@ This is a ladder to the sky. Go straight ahead and dodge the food falling from t
 
 **⛷ Press SPACE to jump**
 
+<img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20Ladder.png> 
+
 # Cornell Box
 
 This box contains three layers. From top to bottom, they are the lava layer containing dragons, the ocean layer containing fish, and the garden layer containing flowers. The player will land from a high altitude through the first angle of view, and the direction of the angle of view can be controlled by the keyboard and mouse.
