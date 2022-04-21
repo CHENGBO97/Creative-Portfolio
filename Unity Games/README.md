@@ -10,4 +10,4 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 
 **🚀 Press F to fly**
 
-<img src=https://github.com/Cb2116/Spring-2022-Worldmaking-with-Unity/blob/main/images/004.png> 
+<img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png> 
