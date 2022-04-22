@@ -6,7 +6,7 @@ These works are the results of my first semester of learning Unity. I am still l
 
 # [Cinema 4D, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Cinema%204D)
 
-These works are also the results of my first semester of learning Cinema 4D, and most of them are just my whimsical creations. I'm still working on them to make them more complete.
+These works are also the results of my first semester of learning Cinema 4D, and most of them are just my whimsical creations. I'm still working on them to make them more complete. [Website](https://chengbo-xing.webflow.io/)
 
 <a href="https://youtu.be/Abdf4pdOv1o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/images/Danger!%20Danger!.GIF"></a>
 
