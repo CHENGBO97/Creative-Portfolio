@@ -10,7 +10,7 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 
 **🚀 Press F to fly**
 
-<img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png> 
+ <a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png></a>
 
 # Nightmare Ladder
 
@@ -22,7 +22,7 @@ This is a ladder to the sky. Go straight ahead and dodge the food falling from t
 
 **⛷ Press SPACE to jump**
 
-<img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20Ladder.png> 
+ <a href="https://youtu.be/k2AqXW0H3YI"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20Ladder.png></a>
 
 # [Cornell Box](https://chengbo.itch.io/cornell-box)
 
