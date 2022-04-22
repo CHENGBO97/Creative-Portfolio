@@ -40,4 +40,4 @@ My idea for creating this box is that I want to use strong color contrasts and e
 **🚀 Press F to fly**
 
  <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
- <a href="https://youtu.be/tfTroN86U9o"><img src=" https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
+ <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
