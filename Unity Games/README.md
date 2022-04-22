@@ -10,8 +10,8 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 
 **🚀 Press F to fly**
 
- <a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png></a>
-  <a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.GIF></a>
+<a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png></a>
+<a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.GIF></a>
 
 # [Nightmare Ladder](https://chengbo.itch.io/ff-week6)
 
@@ -23,7 +23,8 @@ This is a ladder to the sky. Go straight ahead and dodge the food falling from t
 
 **⛷ Press SPACE to jump**
 
- <a href="https://youtu.be/k2AqXW0H3YI"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20ladder.png></a>
+<a href="https://youtu.be/k2AqXW0H3YI"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20ladder.png></a>
+<a href="https://youtu.be/k2AqXW0H3YI"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20Ladder.GIF></a>
 
 # [Cornell Box](https://chengbo.itch.io/cornell-box)
 
@@ -39,5 +40,5 @@ My idea for creating this box is that I want to use strong color contrasts and e
 
 **🚀 Press F to fly**
 
- <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
- <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
+<a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
+<a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
