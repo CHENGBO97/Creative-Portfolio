@@ -11,6 +11,7 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 **🚀 Press F to fly**
 
  <a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png></a>
+  <a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.GIF></a>
 
 # [Nightmare Ladder](https://chengbo.itch.io/ff-week6)
 
@@ -39,3 +40,4 @@ My idea for creating this box is that I want to use strong color contrasts and e
 **🚀 Press F to fly**
 
  <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
+ <a href="https://youtu.be/tfTroN86U9o"><img src=" https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
