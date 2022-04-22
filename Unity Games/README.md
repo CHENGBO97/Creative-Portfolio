@@ -1,4 +1,4 @@
-# Eye of The Universe
+# [Eye of The Universe](https://chengbo.itch.io/ff-week6)
 
 This is an eye made up of multi-colored mountains sitting in the universe. When food falls from the sky, points are added to everything except cheese!! Players will advance when they reach enough points.
 
@@ -12,7 +12,7 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 
  <a href="https://youtu.be/YzfUutAyq5w"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.png></a>
 
-# Nightmare Ladder
+# [Nightmare Ladder](https://chengbo.itch.io/ff-week6)
 
 This is a ladder to the sky. Go straight ahead and dodge the food falling from the sky!
 
@@ -22,7 +22,7 @@ This is a ladder to the sky. Go straight ahead and dodge the food falling from t
 
 **⛷ Press SPACE to jump**
 
- <a href="https://youtu.be/k2AqXW0H3YI"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20Ladder.png></a>
+ <a href="https://youtu.be/k2AqXW0H3YI"><img src=https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Nightmare%20ladder.png></a>
 
 # [Cornell Box](https://chengbo.itch.io/cornell-box)
 
