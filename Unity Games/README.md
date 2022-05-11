@@ -1,3 +1,18 @@
+# [Disco Universe Adventure](https://chengbo.itch.io/disco-universe-adventure)
+
+In this game, the character keeps running forward. You just need to jump, squat, and shoot to avoid the claws on your way till you reach the finish line! The game will record the time you used. Let’s see how fast you can get to the finish line!! [Watch it on YouTube](https://youtu.be/G1N6K8c0MdA), [Play it on itch.io](https://chengbo.itch.io/disco-universe-adventure).
+
+Actually, I also made a physical controller for this game. Combined with Pressure Sensor/Force Sensing Resistor (FSR) and Arduino Nano 33 IoT Board, users can achieve clapping (Attack). Combined with IMU Sensor and Arduino Nano 33 BLE Board, used TinyML to learn and detect two motions (Jump, Squat). [Watch it on YouTube](https://youtu.be/9fbt-A-QG5g)
+
+**🏋🏻‍♂️ Press S to squat**
+
+**🔫 Press A to shoot**
+
+**⛷ Press SPACE to jump**
+
+<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/cover.png"></a>
+<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Disco%20Universe%20Adventure.GIF"></a>
+
 # [Eye of The Universe](https://chengbo.itch.io/ff-week6)
 
 This is an eye made up of multi-colored mountains sitting in the universe. When food falls from the sky, points are added to everything except cheese!! Players will advance when they reach enough points. [Watch it on YouTube](https://youtu.be/YzfUutAyq5w), [Play it on itch.io](https://chengbo.itch.io/ff-week6).
@@ -42,18 +57,3 @@ My idea for creating this box is that I want to use strong color contrasts and e
 
 <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
 <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
-
-# [Disco Universe Adventure](https://chengbo.itch.io/disco-universe-adventure)
-
-In this game, the character keeps running forward. You just need to jump, squat, and shoot to avoid the claws on your way till you reach the finish line! The game will record the time you used. Let’s see how fast you can get to the finish line!! [Watch it on YouTube](https://youtu.be/G1N6K8c0MdA), [Play it on itch.io](https://chengbo.itch.io/disco-universe-adventure).
-
-Actually, I also made a physical controller for this game. Combined with Pressure Sensor/Force Sensing Resistor (FSR) and Arduino Nano 33 IoT Board, users can achieve clapping (Attack). Combined with IMU Sensor and Arduino Nano 33 BLE Board, used TinyML to learn and detect two motions (Jump, Squat). [Watch it on YouTube](https://youtu.be/G1N6K8c0MdA)
-
-**🏋🏻‍♂️ Press S to squat**
-
-**🔫 Press A to shoot**
-
-**⛷ Press SPACE to jump**
-
-<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/cover.png"></a>
-<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Disco%20Universe%20Adventure.GIF"></a>
