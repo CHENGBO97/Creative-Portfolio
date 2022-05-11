@@ -42,3 +42,7 @@ My idea for creating this box is that I want to use strong color contrasts and e
 
 <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.JPG"></a>
 <a href="https://youtu.be/tfTroN86U9o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Cornell%20Box.GIF"></a>
+
+# [Disco Universe Adventure](https://chengbo.itch.io/disco-universe-adventure)
+
+In this game, the character keeps running forward. You just need to jump, squat, and shoot to avoid the claws on your way till you reach the finish line! The game will record the time you used. Let’s see how fast you can get to the finish line!! [Watch it on YouTube](https://youtu.be/G1N6K8c0MdA), [Play it on itch.io](https://chengbo.itch.io/disco-universe-adventure).
