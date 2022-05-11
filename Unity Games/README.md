@@ -1,6 +1,6 @@
 # [Eye of The Universe](https://chengbo.itch.io/ff-week6)
 
-This is an eye made up of multi-colored mountains sitting in the universe. When food falls from the sky, points are added to everything except cheese!! Players will advance when they reach enough points.
+This is an eye made up of multi-colored mountains sitting in the universe. When food falls from the sky, points are added to everything except cheese!! Players will advance when they reach enough points. [Watch it on YouTube](https://youtu.be/YzfUutAyq5w), [Play it on itch.io](https://chengbo.itch.io/ff-week6).
 
 **🖱 Use the MOUSE to look around**
 
@@ -15,7 +15,7 @@ This is an eye made up of multi-colored mountains sitting in the universe. When 
 
 # [Nightmare Ladder](https://chengbo.itch.io/ff-week6)
 
-This is a ladder to the sky. Go straight ahead and dodge the food falling from the sky!
+This is a ladder to the sky. Go straight ahead and dodge the food falling from the sky! [Watch it on YouTube](https://youtu.be/k2AqXW0H3YI), [Play it on itch.io](https://chengbo.itch.io/ff-week6).
 
 **🖱 Use the MOUSE to look around**
 
@@ -30,7 +30,7 @@ This is a ladder to the sky. Go straight ahead and dodge the food falling from t
 
 This box contains three layers. From top to bottom, they are the lava layer containing dragons, the ocean layer containing fish, and the garden layer containing flowers. The player will land from a high altitude through the first angle of view, and the direction of the angle of view can be controlled by the keyboard and mouse.
 
-My idea for creating this box is that I want to use strong color contrasts and extremely unrealistic things in the environment to make the player feel a strange crossing when passing through different spaces.
+My idea for creating this box is that I want to use strong color contrasts and extremely unrealistic things in the environment to make the player feel a strange crossing when passing through different spaces. [Watch it on YouTube](https://youtu.be/tfTroN86U9o), [Play it on itch.io](https://chengbo.itch.io/cornell-box).
 
 **🖱 Use the MOUSE to look around**
 
