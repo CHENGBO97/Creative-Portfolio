@@ -2,7 +2,7 @@
 
 In this game, the character keeps running forward. You just need to jump, squat, and shoot to avoid the claws on your way till you reach the finish line! The game will record the time you used. Let’s see how fast you can get to the finish line!! [Watch it on YouTube](https://youtu.be/G1N6K8c0MdA), [Play it on itch.io](https://chengbo.itch.io/disco-universe-adventure).
 
-Actually, I also made a physical controller for this game. Combined with Pressure Sensor/Force Sensing Resistor (FSR) and Arduino Nano 33 IoT Board, users can achieve clapping (Attack). Combined with IMU Sensor and Arduino Nano 33 BLE Board, used TinyML to learn and detect two motions (Jump, Squat). [Watch it on YouTube](https://youtu.be/9fbt-A-QG5g)
+Actually, I also made a physical controller for this game. Combined with Pressure Sensor/Force Sensing Resistor (FSR) and Arduino Nano 33 IoT Board, users can achieve clapping (Attack). Combined with IMU Sensor and Arduino Nano 33 BLE Board, used TinyML to learn and detect two motions (Jump, Squat). [Watch it on YouTube](https://youtu.be/9fbt-A-QG5g).
 
 **🏋🏻‍♂️ Press S to squat**
 
