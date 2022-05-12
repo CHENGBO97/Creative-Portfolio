@@ -4,8 +4,8 @@ Nowadays, photography does not only stand for an image shot by a camera. For fas
 
 In this project, I wish there was a space for these new media arts to have a new way for people to be into a photo work in this gallery. So I built a gallery space in unity. There will be a showcase of three photo works in the gallery. I created a space for each of these photos for the interaction part. In the whole experience, the player will experience it from a first-person view. [Watch it on YouTube](https://youtu.be/oHbZ_ncd9P8).
 
-<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Gallery.png"></a>
-<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Virtual%20Gallery.GIF"></a>
+<a href="https://youtu.be/oHbZ_ncd9P8"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Gallery.png"></a>
+<a href="https://youtu.be/oHbZ_ncd9P8"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Virtual%20Gallery.GIF"></a>
 
 # [Disco Universe Adventure](https://chengbo.itch.io/disco-universe-adventure)
 
