@@ -1,3 +1,12 @@
+# [Virtual Gallery](https://youtu.be/oHbZ_ncd9P8)
+
+Nowadays, photography does not only stand for an image shot by a camera. For fashion photographers, I believe new and innovative visual impacts are always attractive to them. Especially in fashion photography, more and more “photo works” are created by many new technologies and used for commercial or independent artworks. 
+
+In this project, I wish there was a space for these new media arts to have a new way for people to be into a photo work in this gallery. So I built a gallery space in unity. There will be a showcase of three photo works in the gallery. I created a space for each of these photos for the interaction part. In the whole experience, the player will experience it from a first-person view. [Watch it on YouTube](https://youtu.be/oHbZ_ncd9P8).
+
+<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Gallery.png"></a>
+<a href="https://youtu.be/G1N6K8c0MdA"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Virtual%20Gallery.GIF"></a>
+
 # [Disco Universe Adventure](https://chengbo.itch.io/disco-universe-adventure)
 
 In this game, the character keeps running forward. You just need to jump, squat, and shoot to avoid the claws on your way till you reach the finish line! The game will record the time you used. Let’s see how fast you can get to the finish line!! [Watch it on YouTube](https://youtu.be/G1N6K8c0MdA), [Play it on itch.io](https://chengbo.itch.io/disco-universe-adventure).
