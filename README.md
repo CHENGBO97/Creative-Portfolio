@@ -1,4 +1,4 @@
-# [Unity Games, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Unity%20Games)
+# [Unity Projects, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Unity%20Games)
 
 These works are the results of my first semester of learning Unity. I am still learning and exploring the possibilities of unity in game creation. The imaginative scenography is my favorite part.
 
