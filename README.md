@@ -2,7 +2,7 @@
 
 These works are the results of my first semester of learning Unity. I am still learning and exploring the possibilities of unity in game creation. The imaginative scenography is my favorite part.
 
-<a href="https://youtu.be/Abdf4pdOv1o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Eye%20of%20the%20universe.GIF"></a>
+<a href="https://youtu.be/Abdf4pdOv1o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Virtual%20Gallery.GIF"></a>
 
 # [Cinema 4D, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Cinema%204D)
 
