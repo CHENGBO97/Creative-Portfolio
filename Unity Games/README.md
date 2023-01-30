@@ -7,6 +7,19 @@ Dream Delivery is a single-player VR game made with Unity. Player needs to compl
 <a href="https://youtu.be/BNJlZh9nY9Y"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Dream%20Delivery.png"></a>
 <a href="https://youtu.be/BNJlZh9nY9Y"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Dream%20Delivery.GIF"></a>
 
+## [Home Sick](https://youtu.be/ED0K1INgyp8)
+
+Due to the pandemic, it has become difficult for Chinese students studying abroad to back to China. Hometown has become an unreachable place for us, just like the left and right hands in this clock are hard to meet. . .
+
+The right hand (Chinese student) represents the minute hand, moving one toward the center every ten minutes, for a total of 6 steps, one hour. The left hand (Chinese family) represents the hour hand, moving one square to the center every hour, for a total of 12 steps. So every time after the last 12 hours the right hand and left hand can meet in the middle.
+
+The mask suspended in the middle is the subject of this project, representing the fact that it is difficult for Chinese students and their families to meet each other because of it.
+
+I used Unity to simulate the effect of the elastic rope, and made a four-sided holographic with w= 30" h= 23" d= 18". In November 2022, I was selected to participate in the NYU ITP Winter Show for display.
+
+<a href="https://youtu.be/ED0K1INgyp8"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Home%20Sick.png"></a>
+<a href="https://youtu.be/ED0K1INgyp8"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Home%20Sick.GIF"></a>
+
 ## [Virtual Gallery](https://youtu.be/oHbZ_ncd9P8)
 
 Nowadays, photography does not only stand for an image shot by a camera. For fashion photographers, I believe new and innovative visual impacts are always attractive to them. Especially in fashion photography, more and more “photo works” are created by many new technologies and used for commercial or independent artworks. 
