@@ -1,12 +1,12 @@
 # [Unity Projects, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Unity%20Games)
 
-These works are the results of my first semester of learning Unity. I am still learning and exploring the possibilities of unity in game creation. The imaginative scenography is my favorite part. [Watch the Video Playlist](https://youtube.com/playlist?list=PLqMMhriyYMRvqBNotfsnvjUl75_hmZJnD).
+These works are all from my school project. I am still learning and exploring the possibilities of unity in game creation. The imaginative scenography is my favorite part. [Watch the Video Playlist](https://youtube.com/playlist?list=PLqMMhriyYMRvqBNotfsnvjUl75_hmZJnD).
 
-<a href="https://youtube.com/playlist?list=PLqMMhriyYMRvqBNotfsnvjUl75_hmZJnD"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Virtual%20Gallery.GIF"></a>
+<a href="https://youtube.com/playlist?list=PLqMMhriyYMRvqBNotfsnvjUl75_hmZJnD"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Dream%20Delivery.GIF"></a>
 
 # [Cinema 4D, New York University, Spring 2022](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Cinema%204D)
 
-These works are also the results of my first semester of learning Cinema 4D, and most of them are just my whimsical creations. I'm still working on them to make them more complete. [Website](https://chengbo-xing.webflow.io/), [Watch the Video Playlist](https://youtube.com/playlist?list=PLqMMhriyYMRujak8lRcK3GNDh3nCfyOg7).
+These works are also from my school project, and most of them are just my whimsical creations. I'm still working on them to make them more complete. [Website](https://chengbo-xing.webflow.io/), [Watch the Video Playlist](https://youtube.com/playlist?list=PLqMMhriyYMRujak8lRcK3GNDh3nCfyOg7).
 
 <a href="https://youtube.com/playlist?list=PLqMMhriyYMRujak8lRcK3GNDh3nCfyOg7"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/images/Danger!%20Danger!.GIF"></a>
 
