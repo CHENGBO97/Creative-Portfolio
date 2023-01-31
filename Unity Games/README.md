@@ -2,10 +2,19 @@
 
 ## [Dream Delivery](https://youtu.be/BNJlZh9nY9Y)
 
-Dream Delivery is a single-player VR game made with Unity. Player needs to complete training in order to get qualified to deliver dreams in three locations, from easy medium to difficult levels. Using controllers to grab materials and using strategy to place objects to build roads. Explore, think, and interact. Here is the [APK](https://drive.google.com/file/d/1d8EhvFmLKjJOWGNE6atw-OjlqPQzvAMd/view?usp=sharing) for this game.
+Dream Delivery is a single-player VR game made with Unity. Player needs to complete training in order to get qualified to deliver dreams in three locations, from easy medium to difficult levels. Using controllers to grab materials and using strategy to place objects to build roads. Explore, think, and interact. Here is the [APK](https://drive.google.com/file/d/1d8EhvFmLKjJOWGNE6atw-OjlqPQzvAMd/view?usp=sharing) for the game.
 
 <a href="https://youtu.be/BNJlZh9nY9Y"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Dream%20Delivery.png"></a>
 <a href="https://youtu.be/BNJlZh9nY9Y"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Dream%20Delivery.GIF"></a>
+
+## [Jack and the Beanstalk](https://youtu.be/_hwQs_ObldY)
+
+Jack and the Beanstalk is a light-hearted climbing VR game made with Unity. The player incarnates as Jack, climbs the towering beanstalks with both hands, and collects as many gold coins as possible in three minutes.
+
+🧗‍♂️Use grip buttons to climb
+
+<a href="https://youtu.be/_hwQs_ObldY"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Jack%20and%20the%20Beanstalk.png"></a>
+<a href="https://youtu.be/_hwQs_ObldY"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Unity%20Games/images/Jack%20and%20the%20Beanstalk.GIF"></a>
 
 ## [Home Sick](https://youtu.be/ED0K1INgyp8)
 
