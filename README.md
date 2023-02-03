@@ -1,3 +1,7 @@
+# [CHENGBO XING](https://chengbo.cargo.site/)
+
+A graduate student in the Interactive Telecommunications Program (ITP) at New York University. Come from a computer science background, proficient in Python and Java programming languages. Passionate about creating diverse projects with Unity & Cinema 4D, and currently exploring the infinite possibilities of VR. I am a fashion model as well ;)
+
 # [Unity Projects, New York University](https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Unity%20Games)
 
 These works are all from my school project. I am still learning and exploring the possibilities of unity in game creation. The imaginative scenography is my favorite part. [Watch the Video Playlist](https://youtube.com/playlist?list=PLqMMhriyYMRvqBNotfsnvjUl75_hmZJnD).
