@@ -12,7 +12,7 @@ These works are all from my school project. I am still learning and exploring th
 
 These works are also from my school project, and most of them are just my whimsical creations. I'm still working on them to make them more complete. [Website](https://chengbo-xing.webflow.io/), [Watch the Video Playlist](https://youtube.com/playlist?list=PLqMMhriyYMRujak8lRcK3GNDh3nCfyOg7).
 
-<a href="https://youtube.com/playlist?list=PLqMMhriyYMRujak8lRcK3GNDh3nCfyOg7"><img src="[https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/images/Danger!%20Danger!.GIF](https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/images/Bone%20%26%20Flesh.GIF)"></a>
+<a href="https://youtube.com/playlist?list=PLqMMhriyYMRujak8lRcK3GNDh3nCfyOg7"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Cinema%204D/images/Bone%20%26%20Flesh.GIF"></a>
 
 # [Acquire Project, Idaho State University](https://github.com/ChengboXXing/Creative-Portfolio/tree/main/Acquire%20Project)
 
