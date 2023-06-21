@@ -18,7 +18,7 @@ These works are also from my school project, and most of them are just my whimsi
 
 This is a digital version of the Acquire board game in Java as a group project. Acquire is a multi-player mergers and acquisitions themed board game. The object of the game is to earn the most money by developing and merging hotel chains. Not only this project contains the main modules such as Board, Driver, Chain, and Tile, etc., but also a graphical user interface made with JavaFX. I provided the code and a screenshot of the running game interface. As a team developer, I completed all the UI parts and code testing.
 
-<a href="https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Acquire%20Project/Acquire%20Program%20Running"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Acquire%20Project/Acquire%20Program%20Running/Start%20Game.png"></a>
+<a href="https://github.com/CHENGBO97/Creative-Portfolio/tree/main/Acquire%20Project/Acquire%20Program%20Running"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Acquire%20Project/Acquire%20Program%20Running/Aquire.GIF"></a>
 
 # [Traveling Salesperson Problem (TSP) Project, Idaho State University](https://github.com/ChengboXXing/Creative-Portfolio/tree/main/Traveling%20Salesperson%20Problem%20(TSP))
 
@@ -36,7 +36,7 @@ In this project, I used the programming language C to implement broadcasting mes
 
 This is a digital version of the Monopoly board game in Java as a group project. It contains seven main modules, such as Players, Board and Game Engine, etc. This project has a graphical user interface, responding to both mouse and keyboard input, which attempts to mimic the play of the actual game. I simply showed all the operations of the game in a demo video. As the group leader, I completed the graphical user interface, Board, and MainGame, etc. [Monopoly Demo YouTube Link](https://youtu.be/66xGHN_pJ4o)
 
-<a href="https://youtu.be/66xGHN_pJ4o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Monopoly%20Project/Monopoly%20Running/Monopoly.png"></a>
+<a href="https://youtu.be/66xGHN_pJ4o"><img src="https://github.com/CHENGBO97/Creative-Portfolio/blob/main/Monopoly%20Project/Monopoly%20Running/Monopoly.GIF"></a>
 
 # Assistive Tableware Set, Henan University of Economics and Law
 
